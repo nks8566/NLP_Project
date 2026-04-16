@@ -10,3 +10,4 @@ vaderSentiment
 transformers
 datasets
 torch
+transformers[torch]
